@@ -1,0 +1,11 @@
+# name of profile to use for admin tasks
+admin=admin-profile
+
+# name of bucket to use for testing
+bucket=bucket_that_is_uniquely_named_for_test
+
+# prefix for policy name
+policy=upload
+
+# name of IAM user to test uploading (must match a profile name)
+uploader=uploader
